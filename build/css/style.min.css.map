@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.min.css","sourcesContent":[]}
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,I,CACE,mB,CAAA,mB,CAAA,Y,CACA,Y,CAGF,M,CACE,iB,CACA,W,CACA,W,CACA,e,CACA,Q,CACA,e,CACA,wB,CACA,kB,CACA,c","file":"style.min.css","sourcesContent":["body {\n  display: flex;\n  height: 100vh;\n}\n\nbutton {\n  margin: auto 100px;\n  width: 200px;\n  height: 50px;\n  background: yellow;\n  border: none;\n  font-weight: 900;\n  text-transform: uppercase;\n  border-radius: 15px;\n  cursor: pointer\n}\n"]}
